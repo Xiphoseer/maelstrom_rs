@@ -1,0 +1,9 @@
+[package]
+name = "maelstrom"
+version = "0.1.0"
+authors = ["Xiphoseer"]
+edition = "2018"
+license = "MIT"
+description = "Library for AI/Scripts for LU related software"
+
+[dependencies]
